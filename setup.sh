@@ -14,7 +14,7 @@
 # =============================================================================
 set -euo pipefail
 
-REPO_URL="https://github.com/danbuhler/claude-code-ha.git"
+REPO_URL="https://github.com/McGum/claude-code-ha.git"
 
 # --- locate the persistent HA config mount ---------------------------------
 if [ -d /homeassistant ]; then HA_CONFIG=/homeassistant
