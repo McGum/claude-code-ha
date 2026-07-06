@@ -13,6 +13,9 @@ __pycache__/
 # Node
 node_modules/
 
+# Persistent Claude Code install cache (created by bootstrap.sh)
+.local/
+
 # IDE
 .vscode/
 .idea/
